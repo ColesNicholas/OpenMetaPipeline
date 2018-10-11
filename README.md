@@ -12,4 +12,4 @@ The server component builds input that is called in the UI component.
 Feel free to contact me with questions. I would be happy to chat via Skype/phone/email/Twitter
 
 ## News
-10/11/18: I am currently working to with Hans IJzerman to make an Open MetaPipeline for a meta-analysis on social thermoregulation. I will post updates. Once this is complete, I will link the final project to this GitHub page. 
+10/11/18: I am currently working to with Hans IJzerman to make an Open MetaPipeline for a meta-analysis on social thermoregulation. Once this is complete, I will link the final project to this GitHub page. 
